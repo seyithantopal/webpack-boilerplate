@@ -1,0 +1,13 @@
+{
+	"parser": "babel-eslint",
+	"extends": ["airbnb"],
+	"rules": {
+		"no-unused-vars": 0,
+		"import/no-extraneous-dependencies": 0,
+		"linebreak-style": ["error", "windows"],
+		"indent": [2, "tab"],
+		"no-tabs": 0,
+		"quotes": ["error", "single"],
+		"semi": ["error", "always"]
+	}
+}
